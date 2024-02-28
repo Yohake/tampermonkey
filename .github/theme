@@ -7,7 +7,7 @@
 // @match        https://*.tankionline.com/play/
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=tankionline.com
 // @grant           GM_addElement
-// @resource        home.entrance1 
+// @resource        home.entrance1 https://i.yapx.cc/Mw9VM.gif
 // @resource        home.entrance https://usagif.com/wp-content/uploads/gif/outerspace-70.gif
 // @grant           GM_getResourceURL
 // @run-at          document-body
